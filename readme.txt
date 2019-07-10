@@ -1,1 +1,1 @@
-Where will be a project description
+There will be a project description
